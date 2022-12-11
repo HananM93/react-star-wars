@@ -23,4 +23,10 @@
 }
 
 
+.display {
+    display: flex;
+    background-color:rgb(19, 62, 170);
+    margin: 7%;
+    border-radius: 5px;
 
+}
