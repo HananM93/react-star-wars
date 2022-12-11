@@ -28,5 +28,8 @@
     background-color:rgb(19, 62, 170);
     margin: 7%;
     border-radius: 5px;
-
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    color: white;
 }
